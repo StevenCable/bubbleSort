@@ -1,0 +1,27 @@
+{
+  "name": "bubblesort",
+  "version": "1.0.0",
+  "description": "working on algorithms through bubble sort!",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenCable/bubbleSort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenCable/bubbleSort/issues"
+  },
+  "homepage": "https://github.com/StevenCable/bubbleSort#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "chai": "^3.5.0",
+    "express": "^4.14.1",
+    "mocha": "^3.2.0",
+    "supertest": "^3.0.0"
+  }
+}
